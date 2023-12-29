@@ -1,0 +1,34 @@
+body {
+    font-size: 15px;
+}
+.second {
+    height: 390px;
+    background-image: url(./images/image-header-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.bg-danger {
+    width: 100%;
+    height: 100%;
+    background-color: hsla(277, 64%, 61%, 0.5) !important;
+}
+.bg-primary {
+    background-color: hsl(233, 47%, 7%) !important;
+}
+.bg-info {
+    background-color: hsl(244, 38%, 16%) !important;
+}
+.text-light {
+    font-family: 'Inter', sans-serif;
+    font-weight:600;
+}
+.text-primary {
+    color: hsl(277, 64%, 61%) !important;
+}
+.text-secondary {
+    color: hsla(0, 0%, 100%, 0.75) !important;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
