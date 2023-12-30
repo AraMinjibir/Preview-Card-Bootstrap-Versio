@@ -6,8 +6,7 @@ body {
     background-image: url(./images/image-header-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    
 }
 .bg-danger {
     width: 100%;
